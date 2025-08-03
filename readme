@@ -1,0 +1,40 @@
+# iHRM Data Analysis – Structured Analytics in Jupyter
+
+This project analyzes international HRM survey data using structured analytic techniques, Python workflows, and statistical modeling. Built in a Jupyter Notebook, the workflow includes preprocessing, factor analysis, t-tests, and visualizations to support evidence-based insight generation.
+
+## 🧭 Project Goals
+
+- Explore patterns in HRM survey data across countries and demographics
+- Identify latent constructs via factor analysis
+- Evaluate differences using statistical testing
+- Visualize key performance indicators (KPIs) and insights
+
+## 🔧 Tools Used
+
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook
+- SPSS (initial exploratory work)
+- Markdown + visuals for documentation
+
+## 🧠 Key Techniques
+
+- Factor Analysis (PCA)
+- Likert Scale Transformation & Cleaning
+- t-Tests, ANOVA, Chi-squared tests
+- Scree plot generation, KPI table summaries
+- Structured analysis aligned with decision-maker needs
+
+## 📝 Output Highlights
+
+- Latent constructs tied to employee thriving and satisfaction
+- Visualization of item loadings and factor clusters
+- Summary dashboards highlighting group differences
+- Recommendations for further survey refinement
+
+## 📁 File
+
+- `Notebook1_iHRM.ipynb` — Jupyter Notebook with full code, commentary, and visuals
+
+---
+
+*For academic and analytic demonstration purposes. All data used is synthetic or publicly available.*

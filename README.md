@@ -4,7 +4,7 @@ Welcome to my data science portfolio — a collection of exploratory projects, a
 
 ## 👩‍💻 About Me
 
-I’m a mathematician and national security intelligence veteran turned data scientist, with 16+ years of experience navigating ambiguity, extracting signal from noise, and transforming mission-critical information into operational insight. I specialize in:
+I’m a mathematician and national security intelligence officer turned data scientist, with 16+ years of experience navigating ambiguity, extracting signal from noise, and transforming mission-critical information into operational insight. I specialize in:
 
 - Structured data modeling and visualization  
 - Applied statistics, machine learning, and feature engineering  

@@ -31,14 +31,6 @@ Currently an all-but-dissertation PhD candidate, my research focuses on modeling
 - **Environments**: Jupyter, Git, GitHub  
 - **Other**: SPSS, Tableau, i2 Analyst’s Notebook, OSINT tools  
 
-## 📫 Connect
-
-If you're interested in collaboration, data integrity, or applied analytics in secure environments, feel free to reach out:
-
-- [LinkedIn](www.linkedin.com/in/deb-davies-238169122) 
-- [Portfolio](https://your-portfolio-site.com)  
-- [Email](mailto:your-email@example.com)
-
 ---
 
 
